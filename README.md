@@ -11,7 +11,7 @@
 The goal of the project is to provide users with a straightforward utility for managing supported hardware identifiers and system information.
 
 This repository represents **my project and my work**. Please do not re-upload, redistribute, or claim this project as your own without permission.
-
+Also this is a internal system  change it will flag as malware just disable ANTI VIRUS for the DURATION of using the spoofer
 ## ✨ Features
 
 * 🖥️ Modern Windows interface
